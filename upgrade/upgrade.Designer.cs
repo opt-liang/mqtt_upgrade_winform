@@ -87,7 +87,7 @@
             this.IPADDR.Name = "IPADDR";
             this.IPADDR.Size = new System.Drawing.Size(164, 24);
             this.IPADDR.TabIndex = 4;
-            this.IPADDR.Text = "39.108.231.83";
+            this.IPADDR.Text = "192.168.0.1";
             this.IPADDR.TextChanged += new System.EventHandler(this.IPADDR_TextChanged);
             // 
             // label1
