@@ -24,3 +24,16 @@ E:\alarm\Code\upgrade\upgrade\obj\Debug\upgrade.csproj.CoreCompileInputs.cache
 E:\alarm\Code\upgrade\upgrade\obj\Debug\upgrade.csproj.CopyComplete
 E:\alarm\Code\upgrade\upgrade\obj\Debug\upgrade.exe
 E:\alarm\Code\upgrade\upgrade\obj\Debug\upgrade.pdb
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\bin\Debug\upgrade.exe.config
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\bin\Debug\upgrade.exe
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\bin\Debug\upgrade.pdb
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\bin\Debug\M2Mqtt.Net.dll
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\obj\Debug\upgrade.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\obj\Debug\upgrade.upgrade.resources
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\obj\Debug\upgrade.Properties.Resources.resources
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\obj\Debug\upgrade.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\obj\Debug\upgrade.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\obj\Debug\upgrade.csproj.CopyComplete
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\obj\Debug\upgrade.exe
+C:\Users\admin\Desktop\MQTT_Upgrade_Winform-master\MQTT_Upgrade_Winform\upgrade\obj\Debug\upgrade.pdb
